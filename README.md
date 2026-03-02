@@ -1,4 +1,4 @@
-# AI AGENT
+# llama.cpp Technical Demonstration Edition
 
 Hướng dẫn build và chạy Local LLM Server sử dụng `llama.cpp` trên môi trường Linux, tương thích OpenAI API.
 
