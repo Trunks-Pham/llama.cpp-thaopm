@@ -46,8 +46,8 @@ cmake --version
 # 2. Clone llama.cpp
 
 ```bash
-git clone https://github.com/ggml-org/llama.cpp.git
-cd llama.cpp
+git clone https://github.com/Trunks-Pham/llama.cpp-thaopm.git
+cd llama.cpp-thaopm
 ```
 
 ---
